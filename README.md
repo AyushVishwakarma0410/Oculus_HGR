@@ -3,8 +3,6 @@
 A real-time hand gesture recognition system using **MediaPipe** and **XGBoost**. 
 Easily add new gestures, retrain your model, and recognize gestures via webcam.
 
----
-
 ## Project Structure
 Oculus_HGR/
 ├── data/                    # Raw and merged gesture CSV files
